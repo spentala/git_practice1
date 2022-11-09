@@ -1,1 +1,3 @@
 This the second file from repository git_practice1
+
+Second line added to the code
